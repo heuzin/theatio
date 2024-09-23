@@ -20,8 +20,8 @@ const geistMono = localFont({
 });
 
 export const metadata: Metadata = {
-  title: "IMDb clone",
-  description: "This is a movie database clone",
+  title: "Theatio",
+  description: "Movie database website",
 };
 
 export default function RootLayout({
